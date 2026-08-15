@@ -1,16 +1,13 @@
-## Hi there 👋
+# Md Shafiqur Rahman
 
-<!--
-**md-shafiqur-rahman/md-shafiqur-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Expert focused on n8n, Make, Zapier, APIs, and AI Agents.
 
-Here are some ideas to get you started:
+- Website: https://shafiqur.dev
+- Projects: https://shafiqur.dev/projects
+- Blog: https://shafiqur.dev/blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build intelligent automation systems that help businesses save time and scale operations.
+
+
+
+
